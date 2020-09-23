@@ -392,7 +392,7 @@ GENKSYMS	= scripts/genksyms/genksyms
 INSTALLKERNEL  := installkernel
 DEPMOD		= /sbin/depmod
 PERL		= perl
-PYTHON		= python
+PYTHON		= python2
 CHECK		= sparse
 
 # Use the wrapper for the compiler.  This wrapper scans for new
