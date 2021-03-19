@@ -1,0 +1,4 @@
+kernel/drivers/input/touchscreen/sec_ts/y771/sec_ts.ko
+kernel/drivers/input/touchscreen/sec_ts/y771/sec_ts_fw.ko
+kernel/drivers/input/touchscreen/sec_ts/y771/sec_ts_fn.ko
+kernel/drivers/input/touchscreen/sec_ts/y771/sec_ts_ioctl.ko

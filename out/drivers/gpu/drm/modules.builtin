@@ -1,0 +1,4 @@
+kernel/drivers/gpu/drm/drm_kms_helper.ko
+kernel/drivers/gpu/drm/drm.ko
+kernel/drivers/gpu/drm/bridge/analogix-anx7625.ko
+kernel/drivers/gpu/drm/msm/msm_drm.ko

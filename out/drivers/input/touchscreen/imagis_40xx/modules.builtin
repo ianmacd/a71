@@ -1,0 +1,6 @@
+kernel/drivers/input/touchscreen/imagis_40xx/ist40xx.ko
+kernel/drivers/input/touchscreen/imagis_40xx/ist40xx_misc.ko
+kernel/drivers/input/touchscreen/imagis_40xx/ist40xx_sys.ko
+kernel/drivers/input/touchscreen/imagis_40xx/ist40xx_update.ko
+kernel/drivers/input/touchscreen/imagis_40xx/ist40xx_sec.ko
+kernel/drivers/input/touchscreen/imagis_40xx/ist40xx_cmcs.ko

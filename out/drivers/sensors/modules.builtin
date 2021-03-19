@@ -1,0 +1,2 @@
+kernel/drivers/sensors/a96t3x6.ko
+kernel/drivers/sensors/a96t3x6_sub.ko

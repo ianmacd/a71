@@ -1,0 +1,6 @@
+kernel/drivers/misc/hdcp_qseecom.ko
+kernel/drivers/misc/msm_hdcp.ko
+kernel/drivers/misc/qseecom.ko
+kernel/drivers/misc/memory_state_time.ko
+kernel/drivers/misc/qpnp-misc.ko
+kernel/drivers/misc/fpr_FingerprintCard/fpc1020.ko

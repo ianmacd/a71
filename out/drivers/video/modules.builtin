@@ -1,0 +1,9 @@
+kernel/drivers/video/backlight/lcd.ko
+kernel/drivers/video/backlight/backlight.ko
+kernel/drivers/video/backlight/generic_bl.ko
+kernel/drivers/video/backlight/qcom-spmi-wled.ko
+kernel/drivers/video/fbdev/amba-clcd.ko
+kernel/drivers/video/fbdev/core/fb.ko
+kernel/drivers/video/fbdev/core/cfbfillrect.ko
+kernel/drivers/video/fbdev/core/cfbcopyarea.ko
+kernel/drivers/video/fbdev/core/cfbimgblt.ko

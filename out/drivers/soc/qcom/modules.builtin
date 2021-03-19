@@ -1,0 +1,17 @@
+kernel/drivers/soc/qcom/mdt_loader.ko
+kernel/drivers/soc/qcom/llcc-core.ko
+kernel/drivers/soc/qcom/llcc-slice.ko
+kernel/drivers/soc/qcom/llcc-sm6150.ko
+kernel/drivers/soc/qcom/llcc-sdmmagpie.ko
+kernel/drivers/soc/qcom/smem.ko
+kernel/drivers/soc/qcom/smp2p.ko
+kernel/drivers/soc/qcom/qpnp-pbs.ko
+kernel/drivers/soc/qcom/icnss.ko
+kernel/drivers/soc/qcom/subsys-pil-tz.ko
+kernel/drivers/soc/qcom/eud.ko
+kernel/drivers/soc/qcom/glink_probe.ko
+kernel/drivers/soc/qcom/glink_pkt.ko
+kernel/drivers/soc/qcom/msm_performance.ko
+kernel/drivers/soc/qcom/crypto-qti-common.ko
+kernel/drivers/soc/qcom/crypto-qti-tz.ko
+kernel/drivers/soc/qcom/qdsp6v2/cdsp-loader.ko

@@ -1,0 +1,12 @@
+kernel/drivers/battery_v2/sec_battery.ko
+kernel/drivers/battery_v2/sec_battery_sysfs.ko
+kernel/drivers/battery_v2/sec_battery_dt.ko
+kernel/drivers/battery_v2/sec_battery_ttf.ko
+kernel/drivers/battery_v2/s2mu106_fuelgauge.ko
+kernel/drivers/battery_v2/s2mu107_fuelgauge.ko
+kernel/drivers/battery_v2/pca9468_charger.ko
+kernel/drivers/battery_v2/s2mu106_charger.ko
+kernel/drivers/battery_v2/s2mu107_switching_charger.ko
+kernel/drivers/battery_v2/s2mu107_direct_charger.ko
+kernel/drivers/battery_v2/s2mu106_pmeter.ko
+kernel/drivers/battery_v2/s2mu107_pmeter.ko
