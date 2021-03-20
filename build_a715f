@@ -16,8 +16,7 @@ KERNEL_MAKE_ENV="DTC_EXT=$(pwd)/tools/dtc CONFIG_BUILD_ARM64_DT_OVERLAY=y"
 # find techpack -type f -name \*.o | xargs rm -f
 
 make REAL_CC=$KERNEL_LLVM_BIN mrproper
-
-#make -j$(nproc) $KERNEL_MAKE_ENV CROSS_COMPILE=$BUILD_CROSS_COMPILE REAL_CC=$KERNEL_LLVM_BIN CLANG_TRIPLE=$CLANG_TRIPLE CFP_CC=$KERNEL_LLVM_BIN sm7150_sec_defconfig
+touch .scmversion
 
 make -j$(nproc) $KERNEL_MAKE_ENV CROSS_COMPILE=$BUILD_CROSS_COMPILE REAL_CC=$KERNEL_LLVM_BIN CLANG_TRIPLE=$CLANG_TRIPLE CFP_CC=$KERNEL_LLVM_BIN sm7150_sec_a71_eur_open_caliban_defconfig
 
